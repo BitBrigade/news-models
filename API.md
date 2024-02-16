@@ -17,3 +17,15 @@
 # 5. AI analysis
 
     -
+
+# 6. NSFW Analysis
+
+    -
+
+# 7. Fact Checking
+
+    -
+
+# 8. Credibility analysis
+
+    -
