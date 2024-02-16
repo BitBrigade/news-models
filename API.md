@@ -16,7 +16,7 @@
 
 # 5. AI analysis
 
-    -
+    -https://rapidapi.com/yourdevmail/api/ai-content-detector1
 
 # 6. NSFW Analysis
 
